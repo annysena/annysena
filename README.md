@@ -3,7 +3,9 @@
 # I'm Anny Sena
 
 📍 São Paulo, Brasil
+
 👩🏻‍💻 Full stack developer in training
+
 📑 Qualified to give good results
 
 
