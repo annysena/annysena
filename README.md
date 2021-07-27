@@ -15,9 +15,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annysena.as44@gmail.com)](mailto:annysena.as44@gmail.com)
 
 
+
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=annysena&theme=tokyonight&layout=compact)](https://github.com/annysena/github-readme-stats)
 <p align="center">
-
 
 
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
