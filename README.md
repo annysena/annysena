@@ -15,10 +15,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annysena.as44@gmail.com)](mailto:annysena.as44@gmail.com)
 
 
-<div>
-  <a href="https://github.com/annysena>
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=annysena&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annysena&&layout=compact&hide=shell&theme=jolly"/>
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=annysena&theme=tokyonight&layout=compact)](https://github.com/annysena/github-readme-stats)
+<p align="center">
 
 
 
