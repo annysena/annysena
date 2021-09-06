@@ -13,7 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annydossantosenavaz/)](https://www.linkedin.com/in/annydossantosenavaz/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/annysena)](https://github.com/annysena)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annysena.as44@gmail.com)](mailto:annysena.as44@gmail.com)
-[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Email&logoColor=white&link=mailto:annysenavaz@hotmail.com)](mailto:annysenavaz@hotmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Email&logoColor=white&link=https://outlook.live.com/mail/0/inbox)](https://outlook.live.com/mail/0/inbox)
 
 ### 👇🏻 Languages
 
