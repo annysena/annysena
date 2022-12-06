@@ -4,7 +4,7 @@
 
 📍 São Paulo, Brasil
 
-👩🏻‍💻 Full stack developer in training
+👩🏻‍💻 Full stack developer
 
 📑 Qualified to give good results
 
